@@ -1,8 +1,8 @@
 {
-  "schemaVersion": 1,
-  "latestVersion": "1.2.0",
-  "minimumRequiredVersion": "1.2.0",
-  "installerUrl": "",
-  "sha256": "",
-  "releaseNotes": "Version inicial del sistema de actualizaciones de Mercadex."
+    "schemaVersion":  1,
+    "latestVersion":  "1.3.0",
+    "minimumRequiredVersion":  "1.3.0",
+    "installerUrl":  "https://github.com/MasterCloud06/mercadex-updates/releases/download/v1.3.0/Mercadex-Setup-1.3.0-win-x64.exe",
+    "sha256":  "AB1B1C367075191E88B40B431C6FDB4BD82810DE76CE96081D8FA19F651EA2B6",
+    "releaseNotes":  "Mercadex 1.3.0 incorpora el sistema de actualizaciones obligatorias."
 }
