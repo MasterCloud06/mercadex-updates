@@ -1,0 +1,8 @@
+{
+  "schemaVersion": 1,
+  "latestVersion": "1.2.0",
+  "minimumRequiredVersion": "1.2.0",
+  "installerUrl": "",
+  "sha256": "",
+  "releaseNotes": "Version inicial del sistema de actualizaciones de Mercadex."
+}
