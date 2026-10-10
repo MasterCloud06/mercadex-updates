@@ -1,8 +1,8 @@
 {
     "schemaVersion":  1,
-    "latestVersion":  "1.3.0",
-    "minimumRequiredVersion":  "1.3.0",
-    "installerUrl":  "https://github.com/MasterCloud06/mercadex-updates/releases/download/v1.3.0/Mercadex-Setup-1.3.0-win-x64.exe",
-    "sha256":  "AB1B1C367075191E88B40B431C6FDB4BD82810DE76CE96081D8FA19F651EA2B6",
+    "latestVersion":  "1.4.0",
+    "minimumRequiredVersion":  "1.4.0",
+    "installerUrl":  "https://github.com/MasterCloud06/mercadex-updates/releases/download/v1.4.0/Mercadex-Setup-1.4.0-win-x64.exe",
+    "sha256":  "2428CE1B67A0A16C0C2CD3E3F9D5CA5F4D5CBB5E0310A99524AFC95EB6C38E8E",
     "releaseNotes":  "Mercadex 1.3.0 incorpora el sistema de actualizaciones obligatorias."
 }
