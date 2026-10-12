@@ -1,8 +1,8 @@
 {
     "schemaVersion":  1,
-    "latestVersion":  "1.5.0",
-    "installerUrl":  "https://github.com/MasterCloud06/mercadex-updates/releases/download/v1.5.0/Mercadex-Setup-1.5.0-win-x64.exe",
-    "releaseNotes":  "Mercadex 1.5.0 - Tarifas individuales, Kardex y mejoras del sistema.",
-    "minimumRequiredVersion":  "1.5.0",
-    "sha256":  "a42610548cafd14b20456a1b4ac20d1f5a4edd741f146293ad9a6bfa504c6ed9"
+    "latestVersion":  "1.6.0",
+    "installerUrl":  "https://github.com/MasterCloud06/mercadex-updates/releases/download/v1.6.0/Mercadex-Setup-1.6.0-win-x64.exe",
+    "releaseNotes":  "Mercadex 1.6.0 - Panel principal, mapa del mercado, cobro rapido, cierre de caja, egresos, informes, importacion del padron y nuevo diseno.",
+    "minimumRequiredVersion":  "1.6.0",
+    "sha256":  "52d2d830ade8244e77c998035a1723c94dad5fc572cc34690cb0fabc641628e2"
 }
