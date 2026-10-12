@@ -1,8 +1,8 @@
 {
     "schemaVersion":  1,
-    "latestVersion":  "1.6.0",
-    "installerUrl":  "https://github.com/MasterCloud06/mercadex-updates/releases/download/v1.6.0/Mercadex-Setup-1.6.0-win-x64.exe",
-    "releaseNotes":  "Mercadex 1.6.0 - Panel principal, mapa del mercado, cobro rapido, cierre de caja, egresos, informes, importacion del padron y nuevo diseno.",
-    "minimumRequiredVersion":  "1.6.0",
-    "sha256":  "52d2d830ade8244e77c998035a1723c94dad5fc572cc34690cb0fabc641628e2"
+    "latestVersion":  "1.6.1",
+    "installerUrl":  "https://github.com/MasterCloud06/mercadex-updates/releases/download/v1.6.1/Mercadex-Setup-1.6.1-win-x64.exe",
+    "releaseNotes":  "Mercadex 1.6.1 - Nuevo diseno, mapa del mercado, cobro rapido e importacion del padron desde Excel.",
+    "minimumRequiredVersion":  "1.6.1",
+    "sha256":  "2e77379a2b691121915404d91177144e1626366fa9637dc9d355d4168ff6dadb"
 }
