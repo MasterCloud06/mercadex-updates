@@ -1,8 +1,8 @@
 {
     "schemaVersion": 1,
-    "latestVersion": "1.6.2",
-    "installerUrl": "https://github.com/MasterCloud06/mercadex-updates/releases/download/v1.6.2/Mercadex-Setup-1.6.2-win-x64.exe",
-    "releaseNotes": "Mercadex 1.6.2 - Inicio de sesion con roles, nuevas pantallas de Cobranza, Casetas, Socios, Kardex, Recibos y Reportes segun el manual.",
-    "minimumRequiredVersion": "1.6.2",
-    "sha256": "095390bcfebf0d899059e645a7547dc880210a35f836a93716182b8768034155"
+    "latestVersion": "1.6.3",
+    "installerUrl": "https://github.com/MasterCloud06/mercadex-updates/releases/download/1.6.3/Mercadex-Setup-1.6.3-win-x64.exe",
+    "releaseNotes": "Mercadex 1.6.3 - Cargo y nombre de quien emite el recibo, conceptos desactivables, aviso de pagos QR, cierre de caja por cajera, registro de cambios y recordatorio del cargo mensual.",
+    "minimumRequiredVersion": "1.6.3",
+    "sha256": "8a6031315f56be208267454d571f641594a799a04dd16d4ae1e3c5861d93d9dd"
 }
