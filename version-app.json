@@ -1,0 +1,7 @@
+{
+    "schemaVersion": 1,
+    "latestVersion": "1.1.0",
+    "minimumRequiredVersion": "1.1.0",
+    "apkUrl": "https://github.com/MasterCloud06/mercadex-updates/releases/download/app-v1.1.0/Mercadex-1.1.0.apk",
+    "releaseNotes": "Mercadex 1.1.0 - Ver u ocultar la contraseña, motivo de anulación en Recibos, recuperar contraseña y actualización desde la app."
+}
