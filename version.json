@@ -1,8 +1,8 @@
 {
     "schemaVersion": 1,
-    "latestVersion": "1.6.3",
-    "installerUrl": "https://github.com/MasterCloud06/mercadex-updates/releases/download/1.6.3/Mercadex-Setup-1.6.3-win-x64.exe",
-    "releaseNotes": "Mercadex 1.6.3 - Cargo y nombre de quien emite el recibo, conceptos desactivables, aviso de pagos QR, cierre de caja por cajera, registro de cambios y recordatorio del cargo mensual.",
-    "minimumRequiredVersion": "1.6.3",
-    "sha256": "8a6031315f56be208267454d571f641594a799a04dd16d4ae1e3c5861d93d9dd"
+    "latestVersion": "1.6.4",
+    "installerUrl": "https://github.com/MasterCloud06/mercadex-updates/releases/download/1.6.4/Mercadex-Setup-1.6.4-win-x64.exe",
+    "releaseNotes": "Mercadex 1.6.4 - Mapa con el plano oficial y reporte, comunicados y cartas de deuda, comedores y ambulantes (no socios), lugar de expedición opcional, menú que se oculta, botón Actualizar y recibo «Elaborado por».",
+    "minimumRequiredVersion": "1.6.4",
+    "sha256": "b5c322a1aae8d06ae16a4057aa31417059c6adbcb6a3b3e0fadd732d6b5ce7b9"
 }
