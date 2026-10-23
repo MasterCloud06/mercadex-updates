@@ -1,8 +1,8 @@
 {
     "schemaVersion": 1,
-    "latestVersion": "1.6.4",
-    "installerUrl": "https://github.com/MasterCloud06/mercadex-updates/releases/download/1.6.4/Mercadex-Setup-1.6.4-win-x64.exe",
-    "releaseNotes": "Mercadex 1.6.4 - Mapa con el plano oficial y reporte, comunicados y cartas de deuda, comedores y ambulantes (no socios), lugar de expedición opcional, menú que se oculta, botón Actualizar y recibo «Elaborado por».",
-    "minimumRequiredVersion": "1.6.4",
-    "sha256": "b5c322a1aae8d06ae16a4057aa31417059c6adbcb6a3b3e0fadd732d6b5ce7b9"
+    "latestVersion": "1.6.5",
+    "installerUrl": "https://github.com/MasterCloud06/mercadex-updates/releases/download/1.6.5/Mercadex-Setup-1.6.5-win-x64.exe",
+    "releaseNotes": "Mercadex 1.6.5 - Anular deudas (una o varias, con vista previa y sin borrar el historial), desmarcar casetas en el cargo mensual y observaciones opcionales en el recibo.",
+    "minimumRequiredVersion": "1.6.5",
+    "sha256": "fee9c7569e6faea959b8589980b6af4d53cee39b4eed98e9ba5bfad68dfe42ac"
 }
