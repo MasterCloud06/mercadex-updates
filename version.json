@@ -1,8 +1,8 @@
 {
     "schemaVersion": 1,
-    "latestVersion": "1.6.6",
-    "installerUrl": "https://github.com/MasterCloud06/mercadex-updates/releases/download/1.6.6/Mercadex-Setup-1.6.6-win-x64.exe",
-    "releaseNotes": "Mercadex 1.6.6 - Mapa del mercado pintado por cuenta (y su reporte PDF), anulación de deudas con buscador y «(Seleccionar todo)» como en Excel, y modo oscuro opcional.",
-    "minimumRequiredVersion": "1.6.6",
-    "sha256": "5bcd51eeaeffd0630b70c1a94512a07a1f0de7c9e64faf05967ebff7dc69f4a5"
+    "latestVersion": "1.6.7",
+    "installerUrl": "https://github.com/MasterCloud06/mercadex-updates/releases/download/1.6.7/Mercadex-Setup-1.6.7-win-x64.exe",
+    "releaseNotes": "Mercadex 1.6.7 - Historial de pagos de una caseta (PDF o Excel), diario de recaudaciones por servicio y volver a registrar una deuda anulada.",
+    "minimumRequiredVersion": "1.6.7",
+    "sha256": "090e8f17e7595cdc9540ede61c1ef083fad9f62ec277ee327623ad8c47ee7915"
 }
