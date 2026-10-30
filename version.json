@@ -1,8 +1,8 @@
 {
     "schemaVersion": 1,
-    "latestVersion": "1.6.7",
-    "installerUrl": "https://github.com/MasterCloud06/mercadex-updates/releases/download/1.6.7/Mercadex-Setup-1.6.7-win-x64.exe",
-    "releaseNotes": "Mercadex 1.6.7 - Historial de pagos de una caseta (PDF o Excel), diario de recaudaciones por servicio y volver a registrar una deuda anulada.",
-    "minimumRequiredVersion": "1.6.7",
-    "sha256": "090e8f17e7595cdc9540ede61c1ef083fad9f62ec277ee327623ad8c47ee7915"
+    "latestVersion": "1.6.9",
+    "installerUrl": "https://github.com/MasterCloud06/mercadex-updates/releases/download/1.6.9/Mercadex-Setup-1.6.9-win-x64.exe",
+    "releaseNotes": "Mercadex 1.6.9 - Pagos parciales, deudores por cuenta (solo números de caseta), reportes sin cortes por bloque, pagos por mes de la deuda y nuevo diario de recaudaciones.",
+    "minimumRequiredVersion": "1.6.9",
+    "sha256": "2f7a4ce2ddd7d798dffade69e4ad6efa8c9a2f838511239d6ab3cd595874a106"
 }
