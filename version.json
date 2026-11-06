@@ -1,8 +1,8 @@
 {
     "schemaVersion": 1,
-    "latestVersion": "1.6.9",
-    "installerUrl": "https://github.com/MasterCloud06/mercadex-updates/releases/download/1.6.9/Mercadex-Setup-1.6.9-win-x64.exe",
-    "releaseNotes": "Mercadex 1.6.9 - Pagos parciales, deudores por cuenta (solo números de caseta), reportes sin cortes por bloque, pagos por mes de la deuda y nuevo diario de recaudaciones.",
-    "minimumRequiredVersion": "1.6.9",
-    "sha256": "2f7a4ce2ddd7d798dffade69e4ad6efa8c9a2f838511239d6ab3cd595874a106"
+    "latestVersion": "1.6.10",
+    "installerUrl": "https://github.com/MasterCloud06/mercadex-updates/releases/download/1.6.10/Mercadex-Setup-1.6.10-win-x64.exe",
+    "releaseNotes": "Mercadex 1.6.10 - Cobrar: fecha de cobro con calendario (para pagos de días anteriores) y «A pagar» editable con un clic.",
+    "minimumRequiredVersion": "1.6.10",
+    "sha256": "4e7644d925398c59d78db139a364c99112d894368e156931e876d2d3c89d1862"
 }
