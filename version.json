@@ -1,8 +1,8 @@
 {
     "schemaVersion": 1,
-    "latestVersion": "1.6.10",
-    "installerUrl": "https://github.com/MasterCloud06/mercadex-updates/releases/download/1.6.10/Mercadex-Setup-1.6.10-win-x64.exe",
-    "releaseNotes": "Mercadex 1.6.10 - Cobrar: fecha de cobro con calendario (para pagos de días anteriores) y «A pagar» editable con un clic.",
-    "minimumRequiredVersion": "1.6.10",
-    "sha256": "4e7644d925398c59d78db139a364c99112d894368e156931e876d2d3c89d1862"
+    "latestVersion": "1.6.11",
+    "installerUrl": "https://github.com/MasterCloud06/mercadex-updates/releases/download/1.6.11/Mercadex-Setup-1.6.11-win-x64.exe",
+    "releaseNotes": "Mercadex 1.6.11 - Reportes como el sistema anterior: detalle de cobros diarios, servicios por fechas, recaudación de servicios acumulados (efectivo y QR), deudores y lista de corte; número de cada concepto.",
+    "minimumRequiredVersion": "1.6.11",
+    "sha256": "ff8a46653bae063871d0988231673899ed3408fd9ed37d0e51b07f0ebf8a1198"
 }
