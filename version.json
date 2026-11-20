@@ -1,8 +1,8 @@
 {
     "schemaVersion": 1,
-    "latestVersion": "1.6.12",
-    "installerUrl": "https://github.com/MasterCloud06/mercadex-updates/releases/download/1.6.12/Mercadex-Setup-1.6.12-win-x64.exe",
-    "releaseNotes": "Mercadex 1.6.12 - Recibo oficial de caja como el del sistema anterior: solo lo importante y en orden de factura, con el total en letras y las firmas.",
-    "minimumRequiredVersion": "1.6.12",
-    "sha256": "67c26d9120acbcc005885c597f2e9f8c001666ea2cdbff17f0b6afb9eb3019c1"
+    "latestVersion": "1.6.13",
+    "installerUrl": "https://github.com/MasterCloud06/mercadex-updates/releases/download/1.6.13/Mercadex-Setup-1.6.13-win-x64.exe",
+    "releaseNotes": "Mercadex 1.6.13 - Reportes: número de página arriba a la derecha, tamaño carta y estado (Anulado/Vigente) completo.",
+    "minimumRequiredVersion": "1.6.13",
+    "sha256": "5c48cfed1904c3e9c2f28642c427e74f5d138854c58c31d22715d04fa64dc123"
 }
