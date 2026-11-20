@@ -1,8 +1,8 @@
 {
     "schemaVersion": 1,
-    "latestVersion": "1.6.13",
-    "installerUrl": "https://github.com/MasterCloud06/mercadex-updates/releases/download/1.6.13/Mercadex-Setup-1.6.13-win-x64.exe",
-    "releaseNotes": "Mercadex 1.6.13 - Reportes: número de página arriba a la derecha, tamaño carta y estado (Anulado/Vigente) completo.",
-    "minimumRequiredVersion": "1.6.13",
-    "sha256": "5c48cfed1904c3e9c2f28642c427e74f5d138854c58c31d22715d04fa64dc123"
+    "latestVersion": "1.6.14",
+    "installerUrl": "https://github.com/MasterCloud06/mercadex-updates/releases/download/1.6.14/Mercadex-Setup-1.6.14-win-x64.exe",
+    "releaseNotes": "Mercadex 1.6.14 - Aviso de cobranza y Listado de socios como el sistema anterior.",
+    "minimumRequiredVersion": "1.6.14",
+    "sha256": "444afdd5e051aae4de0bda36537bad4de73b19c31dc6db97a10761f6eefe7072"
 }
